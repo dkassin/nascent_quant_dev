@@ -20,4 +20,4 @@ There are 5 jupyter notebook
 ## Getting this going
   - There are some instructions, in the data preprocessing to set up some folders that are in the gitignore
   - You will need the dataset to put in a ../data/raw/ folder to get it to read
-  - You will also need to create a ../data/processed/ folder that should received processed csvs.
+  - You will also need to create a ../data/processed/ folder that should receive processed csvs.
